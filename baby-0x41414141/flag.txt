@@ -1,0 +1,1 @@
+flag{This_CTF_shut_down_the_nc_server_I_cant_retrieve_the_flag_no_more_:(}
